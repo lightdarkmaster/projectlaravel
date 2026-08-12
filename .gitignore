@@ -11,7 +11,7 @@
 /resources/js/routes
 /resources/js/wayfinder
 /vendor
-/database/*.sqlite
+/database
 .DS_Store
 .env
 .env.backup
